@@ -8,10 +8,10 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/GiovanniMontenegro/node-ts-starter" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/GiovanniMontenegro/node-ts-starter?_=123" />
   </a>
   <a href="https://twitter.com/_giomontenegro" target="_blank">
-    <img alt="Twitter: \_giomontenegro" src="https://img.shields.io/twitter/follow/\_giomontenegro.svg?style=social" />
+    <img alt="Twitter: _giomontenegro" src="https://img.shields.io/twitter/follow/_giomontenegro.svg?style=social" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ yarn run start
 yarn run test
 ```
 
-## Generate changelog tests
+## Generate changelogs
 
 ```sh
 yarn run version
