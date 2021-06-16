@@ -1,0 +1,45 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "allowJs": true,
+    "declaration": false,
+    "checkJs": false,
+    "esModuleInterop": true,
+    "target": "esnext",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "outDir": "dist",
+    "removeComments": true,
+    "strict": false,
+    "noUnusedLocals": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "baseUrl": "src",
+    "rootDir": "src",
+    "allowSyntheticDefaultImports": true,
+    "paths": {
+      "@/*": [
+        "*"
+      ]
+    },
+    "typeRoots": [
+      "node_modules/@types",
+      "./src/@types",
+    ]
+  },
+  "include": [
+    "src/**/*",
+  ],
+  "exclude": [
+    "node_modules",
+    "**/node_modules/*",
+  ],
+  "lib": [
+    "es2015"
+  ],
+  "plugins": [
+    {
+      "transform": "@zerollup/ts-transform-paths",
+    }
+  ],
+}
