@@ -10,7 +10,7 @@
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/GiovanniMontenegro/node-ts-starter" />
   </a>
-  <a href="https://twitter.com/\_giomontenegro" target="_blank">
+  <a href="https://twitter.com/_giomontenegro" target="_blank">
     <img alt="Twitter: \_giomontenegro" src="https://img.shields.io/twitter/follow/\_giomontenegro.svg?style=social" />
   </a>
 </p>
@@ -41,14 +41,20 @@ yarn run start
 yarn run test
 ```
 
+## Generate changelog tests
+
+```sh
+yarn run version
+```
+
 ## Author
 
 👤 **Giovanni Montenegro**
 
 * Website: https://giovannimontenegro.github.io/
-* Twitter: [@\_giomontenegro](https://twitter.com/\_giomontenegro)
+* Twitter: [@\_giomontenegro](https://twitter.com/_giomontenegro)
 * Github: [@GiovanniMontenegro](https://github.com/GiovanniMontenegro)
-* LinkedIn: [@Giovanni Montenegro](https://linkedin.com/in/Giovanni Montenegro)
+* LinkedIn: [@Giovanni Montenegro](https://linkedin.com/in/giovanni-montenegro)
 
 ## 🤝 Contributing
 
