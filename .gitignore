@@ -39,4 +39,4 @@ dist/**/*
 
 # ignore yarn.lock
 yarn.lock
-.nyc_output
+pgdata
